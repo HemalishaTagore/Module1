@@ -20,7 +20,8 @@ else:
    print("ODD")
 ```
 ## Output
-<img width="1020" height="186" alt="Screenshot 2025-10-19 143925" src="https://github.com/user-attachments/assets/b438ae6c-5c00-4400-9ad3-9fe43600c232" />
+<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/e8951315-0b50-48a9-a56a-f74538504295" />
+
 
 ## Result
 Thus,the Python program to check whether the given number is **even** or **odd** using `if...else` statements is created successfully.
