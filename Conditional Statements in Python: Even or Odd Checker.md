@@ -20,7 +20,7 @@ else:
    print("ODD")
 ```
 ## Output
-<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/e8951315-0b50-48a9-a56a-f74538504295" />
+<img width="426" height="227" alt="Screenshot 2025-10-20 120149" src="https://github.com/user-attachments/assets/01ae6c1a-3235-40cb-ba25-6998bdc3707a" />
 
 
 ## Result
